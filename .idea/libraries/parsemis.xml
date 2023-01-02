@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="parsemis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/parsemis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dbscan-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+uri: "bolt://127.0.0.1"
+username: "neo4j"
+password: "jsoup"
+nodeSizeLimit: 50
+
+#clientCodeDir: "D:/学习/软件所实验室/项目代码/nli2code/data/client/poi/set_cell_comment/corpus"
+#clientCodeDir: "D:/学习/软件所实验室/项目代码/nli2code/data/client/poi/align_cell"
+#sourceCodeDirs: ["D:/学习/软件所实验室/项目代码/nli2code/data/src/poi/src/java"]
+#clientCodeDir: "D:/dataset/nli2code/code_corpus/jsoup/mix"
+clientCodeDir: "D:/dataset/nli2code/code_corpus/jsoup/Extract_attributes_text_and_HTML_from_elements"
+sourceCodeDirs: ["D:/学习/软件所实验室/项目代码/nli2code/data/src/jsoup/src/main/java/org/jsoup/"]
+#sourceCodeDirs: ["D:/学习/软件所实验室/项目代码/nli2code/data/src/jsoup/src/main/java/org/jsoup"]
+#dfgNodeFilters: ["org.apache.poi.ss.usermodel.CellStyle.setAlignment(org.apache.poi.ss.usermodel.HorizontalAlignment)"]
